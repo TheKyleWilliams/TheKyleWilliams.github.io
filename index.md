@@ -1,0 +1,13 @@
+# Hello World
+This is my home page! My name is Kyle Williams and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Science.
+## Computer Science Projects
+My GitHub page is http://github.com/TheKyleWilliams
+### CPSC 120
+* Lab 7
+    Lab 7, part 2 was one of my favorite labs in CPSC120. I have always enjoyed playing BlackJack and it was an awesome experience to be able to code it out in a fully functional program. This lab helped me learn object oriented programming through the use of reusable functions. It was a struggle to calculate the value of a player's hand with the variability of Aces. However, once I was able to figure out that logic, it was smooth sailing from there. In fact, the lab has encouraged me to re-create the BlackJack game once I learn go implement user graphical interfaces. 
+
+* Lab 8 
+    Lab 8, part 2 was another favorite of mine in CPSC120. Throughout the beginning of the semester I have always been in awe of the programmers who created the functionality from various libraries such as the Math library. I never thought that I would be able to implement anything close to as useful as what they've worked on. However, in this lab, we were tasked with creating a function that checked whether a number was prime or not. This lab took me the longest to complete but in the end it was worth it. The task involved breaking down a real mathematical formula and implementing it through an algorithm. Not only have I created a function that many people would find useful, it's also a function in the official Math library. This made me realize that no matter how daunting a task seems, I can and will overcome it if I put in the effort.
+
+* Lab 9
+    Lab 9, part 2 was another fun project to work on. The lab involved reading and writing to files to create a secret number guessing game through terminal command arguments. The lab was very impactful to me because it made me think of how I could use reading / writing files in my own projects. I realized that I could create 'levels' in my personal game project by simply writing the level to a file, and then reading the file to initialize the game level once the program was run. This gives me the ability to create 'saves' in my games and applications. Also, learning how to take advantage of command-line arguments will also be extremely useful for applications. Instead of finding a file, double clicking it, running it, and then putting use input into it, I can just use a command line argument and get a response much quicker. 
